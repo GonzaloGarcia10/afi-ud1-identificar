@@ -16,7 +16,7 @@ En este caso no debemos centrarnos solamente en el portátil de Marta, porque pu
 - **Cámaras del pasillo:** dependen de la comunidad del edificio y las grabaciones se almacenan en un dispositivo de conserjería.
 - **Ordenador compartido de la entrada:** tiene abierta una sesión web de Outlook de otro empleado. Hay que documentar su estado y evitar acceder a información ajena sin autorización.
 
-Esta identificación sigue el criterio de buscar distintas fuentes potenciales de información, como propone NIST SP 800-86, §3.1.1. También se debe documentar la ubicación y el estado inicial de los dispositivos, según ENFSI BPM, §8.2.
+Esta identificación sigue el criterio de buscar distintas fuentes potenciales de información, como propone NIST SP 800-86, 3.1.1. También se debe documentar la ubicación y el estado inicial de los dispositivos, según ENFSI BPM, 8.2.
 
 ## 2. Prioridad de recogida
 
@@ -30,7 +30,7 @@ No recogería todas las evidencias en el mismo orden, sino que tendría en cuent
 6. **Servidor, OneDrive e historial de la impresora:** coordinaría su preservación con el personal responsable, teniendo en cuenta los permisos y la disponibilidad de los datos.
 7. **Móviles y ordenador compartido:** documentaría su estado y determinaría qué información puede ser relevante y qué límites de autorización se aplican.
 
-El orden definitivo debe ajustarse a las condiciones reales de la escena. La prioridad de los datos volátiles se basa en RFC 3227, §§2 y 2.1; la evaluación de los dispositivos activos, en ENFSI BPM, §9.2.
+El orden definitivo debe ajustarse a las condiciones reales de la escena. La prioridad de los datos volátiles se basa en RFC 3227, 2 y 2.1; la evaluación de los dispositivos activos, en ENFSI BPM, 9.2.
 
 ## 3. Medidas inmediatas
 
@@ -45,7 +45,7 @@ Antes de adquirir evidencias, tomaría las siguientes medidas:
 - Solicitar la preservación del pendrive de Javier y documentar quién lo custodia.
 - Anotar cada actuación, quién la realiza y cuándo, junto con las decisiones tomadas y sus motivos.
 
-Estas medidas se apoyan en RFC 3227, §§2 y 3.2, y ENFSI BPM, §8.2. Para valorar cómo tratar el portátil encendido, también se tendrá en cuenta ENFSI BPM, §9.2.
+Estas medidas se apoyan en RFC 3227, 2 y 3.2, y ENFSI BPM, 8.2. Para valorar cómo tratar el portátil encendido, también se tendrá en cuenta ENFSI BPM, 9.2.
 
 ## 4. Límites de la intervención
 
@@ -58,7 +58,7 @@ La investigación debe mantenerse dentro de la autorización firmada por Elena. 
 - **Servidor, NAS y cortafuegos:** coordinaría la preservación con el personal informático para evitar pérdidas o cambios innecesarios.
 - **Portátil de Marta:** tendría en cuenta que usa el equipo en casa y que se conecta mediante VPN algunos viernes. Por tanto, podría haber fuentes de información fuera de la oficina.
 
-NIST SP 800-86, §3.1.1, destaca la importancia de considerar la propiedad de los datos, las políticas y los aspectos legales al identificar fuentes, incluidas las externas. ENFSI BPM, §9.2, permite considerar la intervención de un tercero de confianza para extraer datos cuando corresponda.
+NIST SP 800-86, 3.1.1, destaca la importancia de considerar la propiedad de los datos, las políticas y los aspectos legales al identificar fuentes, incluidas las externas. ENFSI BPM, §9.2, permite considerar la intervención de un tercero de confianza para extraer datos cuando corresponda.
 
 ## 5. De donde sale cada decisión
 
