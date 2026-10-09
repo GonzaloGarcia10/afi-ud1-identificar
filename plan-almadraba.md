@@ -1,8 +1,8 @@
 # Plan: Almadraba Diseño
 
-En este caso no debemos centrarnos solamente en el portátil de Marta, porque puede haber información filtrada en otros dispositivos y sistemas.
-
 ## 1. Fuentes de evidencia identificadas
+
+En este caso no debemos centrarnos solamente en el portátil de Marta, porque puede haber información filtrada en otros dispositivos y sistemas.
 
 - **Portátil de Marta:** es una fuente principal porque estaba encendido y conectado a dos monitores mediante una base USB-C. Debemos valorar cómo preservar la información sin apagarlo directamente.
 - **Disco externo de 2 TB:** puede contener archivos, copias o información relacionada con los diseños.
@@ -16,11 +16,9 @@ En este caso no debemos centrarnos solamente en el portátil de Marta, porque pu
 - **Cámaras del pasillo:** dependen de la comunidad del edificio y las grabaciones se almacenan en un dispositivo de conserjería.
 - **Ordenador compartido de la entrada:** tiene abierta una sesión web de Outlook de otro empleado. Hay que documentar su estado y evitar acceder a información ajena sin autorización.
 
-Esta identificación sigue el criterio de buscar distintas fuentes potenciales de información, como propone NIST SP 800-86, 3.1.1. También se debe documentar la ubicación y el estado inicial de los dispositivos, según ENFSI BPM, 8.2.
-
 ## 2. Prioridad de recogida
 
-No recogería todas las evidencias en el mismo orden, sino que tendría en cuenta su volatilidad, el riesgo de pérdida y la urgencia de preservarlas.
+No recogería todas las evidencias mientras se valora cómo proteger los datos volátiles del portátil encendido, solicitaría cuanto antes la conservación de los registros del cortafuegos y las grabaciones de las cámaras, ya que podrían desaparecer antes de completar la investigación.en el mismo orden, sino que tendría en cuenta su volatilidad, el riesgo de pérdida y la urgencia de conservarlas.
 
 1. **Información volátil del portátil encendido:** antes de apagarlo o reiniciarlo, valoraría qué datos podrían perderse. No realizaría ninguna acción sin un procedimiento adecuado.
 2. **Registros del cortafuegos:** solicitaría su preservación cuanto antes porque se sobrescriben y solo se conservan aproximadamente una semana.
@@ -29,8 +27,6 @@ No recogería todas las evidencias en el mismo orden, sino que tendría en cuent
 5. **Pendrive de Javier y disco externo:** los identificaría y preservaría, documentando su ubicación y evitando conectarlos a un equipo sin un procedimiento adecuado.
 6. **Servidor, OneDrive e historial de la impresora:** coordinaría su preservación con el personal responsable, teniendo en cuenta los permisos y la disponibilidad de los datos.
 7. **Móviles y ordenador compartido:** documentaría su estado y determinaría qué información puede ser relevante y qué límites de autorización se aplican.
-
-El orden definitivo debe ajustarse a las condiciones reales de la escena. La prioridad de los datos volátiles se basa en RFC 3227, 2 y 2.1; la evaluación de los dispositivos activos, en ENFSI BPM, 9.2.
 
 ## 3. Medidas inmediatas
 
@@ -45,8 +41,6 @@ Antes de adquirir evidencias, tomaría las siguientes medidas:
 - Solicitar la preservación del pendrive de Javier y documentar quién lo custodia.
 - Anotar cada actuación, quién la realiza y cuándo, junto con las decisiones tomadas y sus motivos.
 
-Estas medidas se apoyan en RFC 3227, 2 y 3.2, y ENFSI BPM, 8.2. Para valorar cómo tratar el portátil encendido, también se tendrá en cuenta ENFSI BPM, 9.2.
-
 ## 4. Límites de la intervención
 
 La investigación debe mantenerse dentro de la autorización firmada por Elena. No se debe asumir que todos los dispositivos o datos accesibles están autorizados para su examen.
@@ -57,8 +51,6 @@ La investigación debe mantenerse dentro de la autorización firmada por Elena. 
 - **Cámaras de la comunidad:** solicitaría la conservación de las grabaciones al responsable correspondiente, sin acceder por mi cuenta al dispositivo.
 - **Servidor, NAS y cortafuegos:** coordinaría la preservación con el personal informático para evitar pérdidas o cambios innecesarios.
 - **Portátil de Marta:** tendría en cuenta que usa el equipo en casa y que se conecta mediante VPN algunos viernes. Por tanto, podría haber fuentes de información fuera de la oficina.
-
-NIST SP 800-86, 3.1.1, destaca la importancia de considerar la propiedad de los datos, las políticas y los aspectos legales al identificar fuentes, incluidas las externas. ENFSI BPM, §9.2, permite considerar la intervención de un tercero de confianza para extraer datos cuando corresponda.
 
 ## 5. De donde sale cada decisión
 
