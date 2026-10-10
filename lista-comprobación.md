@@ -52,7 +52,7 @@
 **Referencia:** NIST SP 800-86, apartado 3.1.1; ENFSI BPM, apartado 9.2.
 
 - **16. ¿Se han identificado otras fuentes potenciales, como impresoras, registros de trabajos y sistemas de videovigilancia?**  
-**Referencia:** NIST SP 800-86, apartado 3.1.1, como criterio general para identificar fuentes potenciales; debe verificarse la aplicabilidad concreta de cada fuente.
+**Referencia:** NIST SP 800-86, apartado 3.1.1, como criterio general para identificar fuentes potenciales; debe verificarse la utilidad concreta de cada fuente.
 
 ## 4. Decisión de adquisición y preservación
 
@@ -66,7 +66,7 @@
 **Referencia:** RFC 3227,apartado 2 y apartado 3.2; NIST SP 800-86, apartado 3.1.1.
 
 - **20. ¿Se ha valorado la urgencia de preservar copias de seguridad rotativas y grabaciones con retención limitada?**  
-**Referencia:** NIST SP 800-86, apartado 3.1.1, para identificar estas fuentes; la prioridad concreta debe justificarse según el riesgo de pérdida observado.
+**Referencia:** NIST SP 800-86, apartado 3.1.1, para identificar estas fuentes; la prioridad concreta debe justificarse según el riesgo de pérdida.
 
 - **21. ¿Se ha considerado la necesidad de preservar datos remotos o gestionados por terceros, teniendo en cuenta la autorización necesaria?**  
 **Referencia:** NIST SP 800-86, apartado 3.1.1; RFC 3227, apartado 3.2.
